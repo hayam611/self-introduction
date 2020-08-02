@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: "Avenir Next";
+  color:#444444;
+}
+
+
+
+a {
+  text-decoration: none;
+  color:#444444;
+}
+
+.header-list a{
+  position:relative;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+.header-list li{
+  float:right;
+  padding:9px 20px;
+  display: block;
+}
+
+
+
+header {
+  height: 70px;
+  width: 100%;
+  background-color: #271f1f;
+  color:white;
+}
+
+.header-left {
+  float: left;
+}
+
+
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  display: block;
+}
+
+.lesson-wrapper {
+  height: 1300px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: left;
+  width: 50%;
+  margin-bottom:60px;
+}
+
+.lesson-icon {
+  position: relative;
+  border-radius: 10px;
+}
+
+
+}
+
+.lesson-icon p {
+  width: 100%;
+  color: #444444;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  font-size: 15px;
+  color: #444444;
+  text-align: left;
+}
+
+li{
+  text-align: left;
+}
+
+.heading h2 h3 {
+  font-weight: normal;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  display: inline-block;
+  width:100%;
+}
